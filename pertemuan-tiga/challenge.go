@@ -40,7 +40,7 @@ func main() {
 			}
 		}
 		if coba == len(allbiodata){
-			println("Maaf data yang anda masukkan salah")
+			println("Maaf da	ta yang anda masukkan salah")
 		}
 	}
 
